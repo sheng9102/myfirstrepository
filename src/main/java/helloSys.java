@@ -4,7 +4,6 @@ public class helloSys {
         int i = 1;
         int j =0;
         int f=1;
-        int y=1;
         System.out.println(i+j);
         int h = 0;
     }
